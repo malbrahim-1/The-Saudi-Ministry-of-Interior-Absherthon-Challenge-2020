@@ -9,7 +9,7 @@ Mofaq Althiyabi
 
 # Proposal Video:
 
-https://youtu.be/xbhd51kBHsY
+[![video](ibm1.png)](https://youtu.be/xbhd51kBHsY)
 
 # Objective:
 
