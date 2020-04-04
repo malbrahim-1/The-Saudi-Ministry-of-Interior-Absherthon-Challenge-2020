@@ -4,9 +4,8 @@
 
 AI deep computer vision object detection to detect and predict the percentage of crashed vehicles in real-time during the accident.<br>
 
-# Collaborators: 
-
-Marwan Dardounh, Mofaq Althiyabi, Hussah Alakeel, Ghada Siddiqui, Amal Aldawod, Abdulrahman Aloraini
+# Author: 
+Mofaq Althiyabi 
 
 # Proposal Video:
 
