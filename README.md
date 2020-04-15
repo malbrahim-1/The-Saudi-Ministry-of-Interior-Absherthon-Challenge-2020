@@ -21,7 +21,7 @@ The big picture of the problem that we are facing in reality is the number of tr
 
 # Solution:
 
-we are developing innovative solution by collecting a big and diverse data for traffic accident and will use the machine vision to help us to achieve the collection of percentages which can be tracking from the vision of cameras and computer vision. 
+iam developing innovative solution by collecting a big and diverse data for traffic accident and will use the machine vision to help us to achieve the collection of percentages which can be tracking from the vision of cameras and computer vision. 
 
 # Architecture Diagram Selected 1: 
 ![](architecture-diagram.png)
