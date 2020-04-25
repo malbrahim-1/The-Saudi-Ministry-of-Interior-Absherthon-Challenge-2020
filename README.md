@@ -4,8 +4,9 @@
 
 AI deep computer vision object detection to detect and predict the percentage of crashed vehicles in real-time during the accident.<br>
 
-# Author: 
-Mofaq Althiyabi 
+# Collaborators : 
+
+Mofaq Althiyabi, Amal Aldawod, Abdulrahman Aloraini, Renad Alfawaz, Hussah Alakeel
 
 # Proposal Video:
 
@@ -30,5 +31,6 @@ iam developing innovative solution by collecting a big and diverse data for traf
 ![](architecture-diagram1.png)
 
 
-# The hackathon is shut down due to the coronavirus crisis
-# Still in progress
+# Hackathon acceptance: 
+![](architecture-diagram2.png)
+
