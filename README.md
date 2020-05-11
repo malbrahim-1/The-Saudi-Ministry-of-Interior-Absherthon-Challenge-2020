@@ -28,14 +28,11 @@ Mofaq Althiyabi, Amal Aldawod, Abdulrahman Aloraini, Renad Alfawaz, Hussah Alake
 
 ![](Solution.png)
 
+# Architecture Diagram 1: 
+![](workflow.png)
 
-# Architecture Diagram Selected 1: 
-![](architecture-diagram.png)
-
-# Architecture Diagram Selected 2: 
+# Architecture Diagram 2: 
 ![](architecture-diagram1.png)
 
 
-# Hackathon acceptance: 
-![](architecture-diagram2.png)
 
