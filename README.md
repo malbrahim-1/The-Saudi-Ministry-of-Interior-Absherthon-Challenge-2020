@@ -26,13 +26,9 @@ Mofaq Althiyabi, Amal Aldawod, Abdulrahman Aloraini, Renad Alfawaz, Hussah Alake
 
 [![video](ibm1.png)](https://youtu.be/xbhd51kBHsY)
 
-# Objective:
+# Objective & Problem Statement: 
 
 ![](Proposal.png)
-
-# Problem Statement: 
-
-![](Problem.png)
 
 # Solution:
 
