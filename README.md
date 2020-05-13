@@ -7,9 +7,9 @@ AI deep computer vision object detection to detect and predict the percentage of
 # Author of the project: 
 
 موفق الذيابي، مشروع التخرج في الجامعة، بكالوريوس في عام 2014 
- واخر تطورات في المشروع وصلت لها
-مع فريقي في   IBM موجودة في 
-
+ 
+ واخر تطورات في المشروع وصلت لهامع فريقي في   IBM موجودة في
+ 
 Demo:     https://youtu.be/xbhd51kBHsY
 
 
