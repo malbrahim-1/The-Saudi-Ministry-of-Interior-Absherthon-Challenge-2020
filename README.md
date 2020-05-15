@@ -13,7 +13,7 @@ IBM واخر تطورات في المشروع وصلت لها مع فريقي ف
 
  Demo:     https://youtu.be/xbhd51kBHsY        موجودة في  
  
-Also, there is a research paper article, it covered statistics and simulations related to this project. If you want this resource please email me: MofaqCareers@gmail.com
+Also, there is a research paper article, it covered  simulations and statistics cases related to this project. If you want this resource please email me: MofaqCareers@gmail.com
  
  أيضا ، هناك مقالة بحثية ، غطت الإحصاءات والمحاكاة المتعلقة بهذا المشروع.
 
