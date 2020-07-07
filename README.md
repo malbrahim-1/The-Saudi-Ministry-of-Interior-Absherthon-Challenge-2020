@@ -23,7 +23,7 @@ AI deep computer vision object detection to detect and predict the percentage of
 
 # Proposal Video:
 
-[![video](ibm1.png)](https://youtu.be/2TnRGZGkQ4o)
+[![video](uptech.png)](https://youtu.be/2TnRGZGkQ4o)
 
 # Objective & Problem Statement: 
 
