@@ -13,17 +13,17 @@ AI deep computer vision object detection to detect and predict the percentage of
 
 أمل الداوود ، عبدالرحمن العريني ، رناد الفواز ، حصه العقيل
 
-IBM واخر تطورات في المشروع وصلت لها مع فريقي في 
+ 
  
 
- Demo:     https://youtu.be/xbhd51kBHsY        موجودة في  
+ Demo:     https://youtu.be/2TnRGZGkQ4o        
  
  أيضا ، هناك مقالة بحثية ، يوجد بها الإحصاءات والمحاكاة المتعلقة بهذا المشروع.
 
 
 # Proposal Video:
 
-[![video](ibm1.png)](https://youtu.be/xbhd51kBHsY)
+[![video](ibm1.png)](https://youtu.be/2TnRGZGkQ4o)
 
 # Objective & Problem Statement: 
 
