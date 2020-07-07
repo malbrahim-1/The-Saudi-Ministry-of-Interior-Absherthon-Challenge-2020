@@ -11,7 +11,7 @@ AI deep computer vision object detection to detect and predict the percentage of
 
 # contributors from IBM: 
 
-Amal Aldawod, Abdulrahman Aloraini, Renad Alfawaz, Hussah Alakeel
+أمل الداوود ، عبدالرحمن العريني ، رناد الفواز ، حصه العقيل
 
 IBM واخر تطورات في المشروع وصلت لها مع فريقي في 
  
