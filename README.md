@@ -11,7 +11,7 @@ AI deep computer vision object detection to detect and predict the percentage of
 
 # contributors from IBM: 
 
-أمل الداوود ، عبدالرحمن العريني ، رناد الفواز ، حصه العقيل
+أمل الداوود 
 
  
  
